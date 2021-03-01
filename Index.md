@@ -1,4 +1,3 @@
-Test
 Ethan Morss
 March 3, 2021
 IT FDN 130 A Wi 21: Foundations of Databases & SQL
