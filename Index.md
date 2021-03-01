@@ -19,7 +19,7 @@ There are two basic types of UDFs Scalar, and Tabular.  A scalar function can ac
 
 ## Scalar Functions
 
-A Scalar Function returns a single value, it inspires memories of old algebra classes in highshool, a value is plugged into a preexisting expression, and a single value is returned.  Strangely Scalar Functions require Begin and End in the syntax, tabular Functions do not.  A scalar function does not produce an array or a complex structure of values.
+A Scalar Function returns a single value, it inspires memories of old algebra classes in high school, a value is plugged into a preexisting expression, and a single value is returned.  Strangely Scalar Functions require Begin and End in the syntax, tabular Functions do not.  A scalar function does not produce an array or a complex structure of values.
 
 ## Tabular Functions
 
